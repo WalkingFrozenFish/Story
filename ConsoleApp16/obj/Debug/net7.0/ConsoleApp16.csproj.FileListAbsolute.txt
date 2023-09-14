@@ -1,0 +1,34 @@
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/bin/Debug/net7.0/ConsoleApp16
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/bin/Debug/net7.0/ConsoleApp16.deps.json
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/bin/Debug/net7.0/ConsoleApp16.runtimeconfig.json
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/bin/Debug/net7.0/ConsoleApp16.dll
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/bin/Debug/net7.0/ConsoleApp16.pdb
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/obj/Debug/net7.0/ConsoleApp16.csproj.AssemblyReference.cache
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/obj/Debug/net7.0/ConsoleApp16.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/obj/Debug/net7.0/ConsoleApp16.AssemblyInfoInputs.cache
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/obj/Debug/net7.0/ConsoleApp16.AssemblyInfo.cs
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/obj/Debug/net7.0/ConsoleApp16.csproj.CoreCompileInputs.cache
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/obj/Debug/net7.0/ConsoleApp16.dll
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/obj/Debug/net7.0/refint/ConsoleApp16.dll
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/obj/Debug/net7.0/ConsoleApp16.pdb
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/obj/Debug/net7.0/ConsoleApp16.genruntimeconfig.cache
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/obj/Debug/net7.0/ref/ConsoleApp16.dll
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/bin/Debug/net7.0/Spectre.Console.dll
+/Users/frozen/Desktop/SharpProjects/ConsoleApp16/ConsoleApp16/obj/Debug/net7.0/ConsoleApp16.csproj.CopyComplete
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\bin\Debug\net7.0\ConsoleApp16.exe
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\bin\Debug\net7.0\ConsoleApp16.deps.json
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\bin\Debug\net7.0\ConsoleApp16.runtimeconfig.json
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\bin\Debug\net7.0\ConsoleApp16.dll
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\bin\Debug\net7.0\ConsoleApp16.pdb
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\bin\Debug\net7.0\Spectre.Console.dll
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\obj\Debug\net7.0\ConsoleApp16.csproj.AssemblyReference.cache
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\obj\Debug\net7.0\ConsoleApp16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\obj\Debug\net7.0\ConsoleApp16.AssemblyInfoInputs.cache
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\obj\Debug\net7.0\ConsoleApp16.AssemblyInfo.cs
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\obj\Debug\net7.0\ConsoleApp16.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\obj\Debug\net7.0\ConsoleApp16.csproj.CopyComplete
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\obj\Debug\net7.0\ConsoleApp16.dll
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\obj\Debug\net7.0\refint\ConsoleApp16.dll
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\obj\Debug\net7.0\ConsoleApp16.pdb
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\obj\Debug\net7.0\ConsoleApp16.genruntimeconfig.cache
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\obj\Debug\net7.0\ref\ConsoleApp16.dll
