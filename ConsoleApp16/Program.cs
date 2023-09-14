@@ -28,17 +28,17 @@ internal class Game
         {
             Console.Clear();
             AnsiConsole.Write(new Markup($"\n[bold yellow]{CurrentMessage.Description}[/]\n\n"));
-            
+
             if (CurrentMessage.Choices is not null)
             {
                 string[] titles = new string[CurrentMessage.Choices.Count];
-            
+
                 for (var i = 0; i < CurrentMessage.Choices.Count; i++)
                 {
                     var choiceTitle = Messages.FirstOrDefault(item => item.Id == CurrentMessage.Choices[i]);
                     titles[i] = choiceTitle.Title;
                 }
-                
+
                 var newChoices = AnsiConsole.Prompt(
                     new SelectionPrompt<string>()
                         .PageSize(10)

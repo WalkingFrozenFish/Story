@@ -32,3 +32,4 @@ C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\ob
 C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\obj\Debug\net7.0\ConsoleApp16.pdb
 C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\obj\Debug\net7.0\ConsoleApp16.genruntimeconfig.cache
 C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\obj\Debug\net7.0\ref\ConsoleApp16.dll
+C:\Users\Олег\Desktop\Новая папка (3)\ConsoleApp16\ConsoleApp16\obj\Debug\net7.0\ConsoleApp16.sourcelink.json
